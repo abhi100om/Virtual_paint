@@ -1,4 +1,3 @@
-
 # Virtual Paint 🎨
 
 Imagine painting with your fingertips, as if on a virtual canvas. **Virtual Paint** is a revolutionary system that allows you to express yourself with breathtaking fluidity and freedom—no stylus, no mess, just pure creative flow.
@@ -24,7 +23,7 @@ Follow these steps to run the project locally:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/virtual-paint.git
+    git clone https://github.com/abhi100om/virtual-paint.git
     ```
 2. Navigate to the project directory:
     ```bash
