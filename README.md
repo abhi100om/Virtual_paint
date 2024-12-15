@@ -15,9 +15,9 @@ This project uses a custom **Hand Tracking Library**, built on top of **OpenCV**
 
 ## Screenshot
 
-![Virtual Paint in Action]
-git add banner/Screenshot 2024-12-15 142250.png README.md
+Here’s what the project looks like:
 
+![Virtual Paint Banner](banner/Screenshot%202024-12-15%20142250.png)
 
 
 ## Installation
