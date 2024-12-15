@@ -15,7 +15,7 @@ This project uses a custom **Hand Tracking Library**, built on top of **OpenCV**
 
 ## Screenshot
 
-![Virtual Paint in Action]("C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2024-12-15 142250.png")
+![Virtual Paint in Action](C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2024-12-15 142250.png)
 
 ## Installation
 
